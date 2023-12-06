@@ -1,0 +1,16 @@
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.csproj.AssemblyReference.cache
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form1.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form2.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form3.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Properties.Resources.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.csproj.GenerateResource.cache
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.csproj.CoreCompileInputs.cache
+C:\Users\PC-ACER\source\repos\asm2\asm2\bin\Debug\asm2.exe.config
+C:\Users\PC-ACER\source\repos\asm2\asm2\bin\Debug\asm2.exe
+C:\Users\PC-ACER\source\repos\asm2\asm2\bin\Debug\asm2.pdb
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.exe
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.pdb
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form4.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form5.resources
+C:\Users\PC-ACER\source\repos\asm2\asm2\obj\Debug\asm2.Form6.resources
